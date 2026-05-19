@@ -1,8 +1,0 @@
-{
-  "proposal_id": "mock-proposal-001",
-  "primary_confidence": 0.82,
-  "independent_score": 0.78,
-  "severity": "P2",
-  "gate_status": "HUMAN_REVIEW_REQUIRED",
-  "reason": "Confidence is acceptable, but affected table has downstream consumers."
-}
