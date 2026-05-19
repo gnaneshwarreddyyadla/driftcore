@@ -1,0 +1,11 @@
+{
+  "incident_id": "mock-incident-001",
+  "source": "warehouse.orders",
+  "type": "row_data_drift",
+  "severity": "P2",
+  "summary": "Unexpected spike in null values for payment_status",
+  "affected_columns": [
+    "payment_status"
+  ],
+  "detected_at": "2026-05-17T12:00:00Z"
+}
